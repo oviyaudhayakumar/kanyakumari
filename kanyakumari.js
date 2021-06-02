@@ -49,8 +49,8 @@ const questions = [
         optionA: " Sanchi stupa ",
         optionB: " Ganapathy sthapati ",
         optionC: " Sathi Gujara ",
-        optionD: "Choudhary ",
-        correctOption: " optionB "
+        optionD: " Choudhary ",
+        correctOption: "optionB"
     },
 
     {
