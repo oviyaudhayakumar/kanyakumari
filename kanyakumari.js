@@ -46,10 +46,10 @@ const questions = [
 
     {
         question: " Thiruvalluvar was club by sculptured by ",
-        optionA: " Sanchi stupa ",
-        optionB: " Ganapathy sthapati ",
-        optionC: " Sathi Gujara ",
-        optionD: " Choudhary ",
+        optionA: "Sanchi stupa",
+        optionB: "Ganapathy sthapati",
+        optionC: "Sathi Gujara",
+        optionD: "Choudhary",
         correctOption: "optionB"
     },
 
